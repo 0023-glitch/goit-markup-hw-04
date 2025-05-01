@@ -346,6 +346,7 @@ img {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
+  margin-right: 120px;
 }
 .logo-footer {
   font-family: "Raleway", sans-serif;
@@ -373,7 +374,6 @@ img {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  margin-left: 120px;
 }
 .footer-social-list {
   display: flex;
@@ -387,6 +387,7 @@ img {
   line-height: 150%;
   letter-spacing: 0.02em;
   color: #fff;
+  margin-bottom: 16px;
 }
 .icon-footer {
   width: 40px;
@@ -408,5 +409,5 @@ img {
 }
 .footer-top {
   display: flex;
-  align-items: flex-start;
+  align-items: baseline;
 }
